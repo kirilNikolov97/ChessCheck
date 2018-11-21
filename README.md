@@ -1,6 +1,6 @@
 # ChessCheck
 
-<b>Info: </b> The program gets the table from /docs/table.txt and prints if one of the kings is in check/checkmate in the current turn.
+<b>Info: </b> The program gets the table 8 x 8 from /docs/table.txt and prints if one of the kings is in check/checkmate in the current turn.
 
 -  Lower case letter - White figure
   
